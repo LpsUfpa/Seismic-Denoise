@@ -7,7 +7,7 @@ This repository contains the code and link to datasets for the paper **"Seismic 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
+   git clone [https://github.com/LpsUfpa/Seismic-Denoise].git
    cd yourrepository
 2. **Install Dependencies**
 Make sure you have Python installed. You can install the required packages using pip:
