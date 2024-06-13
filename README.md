@@ -15,8 +15,8 @@ Make sure you have Python installed. You can install the required packages using
    pip install -r requirements.txt
 3. **Download Dataset**
 The seismic data used in this study is from the Parihaka and Kerry fields in New Zealand’s Taranaki Basin. They can be obtained for free on the website.
-   ```bash
-   [link text](https://wiki.seg.org/wiki/Open_data#New_Zealand_3D).
+
+[link text](https://wiki.seg.org/wiki/Open_data#New_Zealand_3D).
 
 # Note on Images
 Images provided in this repository are examples and may not be present in the original article. They are included to help understand the implementation and results of the GAN-based approach for seismic data enhancement.
