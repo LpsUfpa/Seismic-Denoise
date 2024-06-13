@@ -1,1 +1,1 @@
-# Cycle_SRGAN arquctecture
+# Cycle_SRGAN architecture
