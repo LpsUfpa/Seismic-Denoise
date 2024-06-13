@@ -11,12 +11,12 @@ This repository contains the code and link to datasets for the paper **"Seismic 
    cd yourrepository
 2. **Install Dependencies**
 Make sure you have Python installed. You can install the required packages using pip:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 3. **Download Dataset**
 The seismic data used in this study is from the Parihaka and Kerry fields in New Zealand’s Taranaki Basin. They can be obtained for free on the website.
-```bash
-"https://wiki.seg.org/wiki/Open_data#New_Zealand_3D".
+   ```bash
+   "https://wiki.seg.org/wiki/Open_data#New_Zealand_3D".
 
 # Note on Images
 Images provided in this repository are examples and may not be present in the original article. They are included to help understand the implementation and results of the GAN-based approach for seismic data enhancement.
@@ -26,13 +26,13 @@ Seismic data often suffers from noise and low resolution, posing challenges for 
 
 # Citation
 If you use this code or dataset in your research, please cite the paper:
-```bash
-@article{silveira2024seismic,
-  title={Seismic Denoising and Resolution Enhancement Utilizing Generative Adversarial Network (GAN) Families: An Application on Taranaki Basin Dataset},
-  author={Silveira, João Rafael B. Da and Figueiredo, José J. S. de},
-  journal={IEEE Transactions on Geoscience and Remote Sensing},
-  year={2024},
-  volume={XX},
-  number={X},
-  pages={1-10}
-}
+   ```bash
+   @article{silveira2024seismic,
+     title={Seismic Denoising and Resolution Enhancement Utilizing Generative Adversarial Network (GAN) Families: An Application on Taranaki Basin Dataset},
+     author={Silveira, João Rafael B. Da and Figueiredo, José J. S. de},
+     journal={IEEE Transactions on Geoscience and Remote Sensing},
+     year={2024},
+     volume={XX},
+     number={X},
+     pages={1-10}
+   }
