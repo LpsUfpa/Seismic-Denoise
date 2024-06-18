@@ -1,5 +1,5 @@
 # Seismic Denoising and Resolution Enhancement Using GANs
-![Alt text](Images/Flowcharts/Flowch2.png)
+![Alt text](Images/Flowcharts/Imagem_disc.png)
 ## Overview
 This repository contains the code and link to datasets for the paper **"Seismic Denoising and Resolution Enhancement Utilizing Generative Adversarial Network (GAN) Families: An Application on Taranaki Basin Dataset"** by João Rafael B. Da Silveira and José J. S. de Figueiredo. The study focuses on enhancing the quality of seismic data by using GANs to improve resolution and reduce noise.
 
